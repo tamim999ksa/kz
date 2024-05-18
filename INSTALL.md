@@ -22,4 +22,4 @@ Drag a compatible ROM onto the `build-rom.bat` script
 
 A patched ROM FIle will be created in the `build-rom.bat` script's directory.  The resulting ROM will be called kz-NZS[J,E,J10].z64.
 
-**Note**:  Full version roms will only work on a custom project64 emulator.  Full version roms do not work on the N64.  
+**Note**:  Full version roms will only work on a [custom project64 emulator](https://drive.google.com/file/d/1Ttd0sLqYF2VGZsFOwcWVT7issqgVeyo-/view?pli=1).  Full version roms do not work on the N64.  
